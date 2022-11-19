@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(197, 134, 186);
+}
+
+.colortext1 {
+    color: rgb(92, 21, 82);
+}
+
+.colortext2 {
+    color: rgb(10, 236, 21);
+}
+
+.colortext3 {
+    color: rgb(92, 21, 82);
+}
+
+.block1 {
+
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 25px;
+}
+
+.block2 {
+    border-color: black;
+    border-style: ridge;
+    display: block;
+    background-color: rgb(90, 17, 84);
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+
+}
+
+.block3 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
